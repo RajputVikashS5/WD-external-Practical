@@ -1,4 +1,4 @@
-/* General Styles */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -7,7 +7,7 @@ body {
     text-align: center;
 }
 
-/* Header */
+
 header {
     padding: 20px;
     text-align: left;
@@ -23,7 +23,7 @@ h1 {
     font-style: italic;
 }
 
-/* Hero Section */
+
 .hero {
     margin: 40px 0;
 }
@@ -38,7 +38,7 @@ h1 {
     color: #1d1dab;
 }
 
-/* Features Section */
+
 .features {
     display: flex;
     justify-content: center;
@@ -69,7 +69,7 @@ h1 {
     color: #444;
 }
 
-/* Footer */
+
 .footer-text {
     color: #1d1dab;
     font-size: 16px;
